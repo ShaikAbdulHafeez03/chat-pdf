@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/date-selector/static/css/main.c105ab33.css",
+    "main.js": "/date-selector/static/js/main.66bf0a95.js",
+    "static/js/453.4ff8306c.chunk.js": "/date-selector/static/js/453.4ff8306c.chunk.js",
+    "index.html": "/date-selector/index.html",
+    "main.c105ab33.css.map": "/date-selector/static/css/main.c105ab33.css.map",
+    "main.66bf0a95.js.map": "/date-selector/static/js/main.66bf0a95.js.map",
+    "453.4ff8306c.chunk.js.map": "/date-selector/static/js/453.4ff8306c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c105ab33.css",
+    "static/js/main.66bf0a95.js"
+  ]
+}
